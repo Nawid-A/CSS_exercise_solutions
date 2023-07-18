@@ -1,0 +1,16 @@
+p.box{ 
+    background-color: #ffc0bf; 
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+} 
+#unique{ 
+    color: #0000ff; 
+    font-size: 36px; 
+} 
+p.box.big{ 
+    font-size: 24px;
+} 
+#new{ 
+    background-color: #ccffcc; 
+    font-size: 24px; 
+    font-weight: 700;
+}
